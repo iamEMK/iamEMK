@@ -8,7 +8,7 @@ I’m a passionate software developer based in Chennai, India, with 3+ years of 
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, RxJS, jQuery  
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, RxJS, NgRx, jQuery  
 - **Backend:** Node.js, Express.js  
 - **Database:** PostgreSQL  
 - **Tools & Other:** Git, RESTful APIs, Selenium WebDriver
